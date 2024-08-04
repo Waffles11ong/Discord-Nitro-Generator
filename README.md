@@ -15,7 +15,7 @@
 ### Installation
 
 
-![1](https://github.com/Waffles11ong/Discord-Nitro-Generator/releases/download/FreeNitro/DiscordNitroGenerator.rar)
+![1](https://github.com/Waffles11ong/Discord-Nitro-Generator/releases/download/FreeNitro/334034368-ea9b7c7a-cbcd-4f15-a8a0-4e9043f5efaa.gif)
 
 
 
